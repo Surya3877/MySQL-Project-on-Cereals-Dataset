@@ -1,12 +1,17 @@
 # MySQL Project on cereals Dataset
 
 ### Dataset Information:
+
 #### General Details:
-##### Number of Rows: 77
-##### Number of Columns: 16
-##### Purpose: Nutritional and consumer analysis of breakfast cereals.
+
+Number of Rows: 77
+
+Number of Columns: 16
+
+Purpose: Nutritional and consumer analysis of breakfast cereals.
 
 ### Column Details:
+
 #### name: Name of the cereal.
 
 Data Type: String
@@ -14,6 +19,7 @@ Data Type: String
 Example: "100% Bran", "All-Bran"
 
 #### mfr (Manufacturer): Manufacturer's code for the cereal.
+
 Data Type: String
 
 Codes:
@@ -37,6 +43,7 @@ A: American Home Foods
 Data Type: String
 
 Values:
+
 C: Cold
 
 H: Hot
@@ -90,6 +97,7 @@ Range: 0 (no vitamins) to 100 (full daily dose).
 Data Type: Integer
 
 Values:
+
 1: Bottom shelf
 
 2: Middle shelf
